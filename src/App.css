@@ -1,0 +1,11 @@
+.my-4{
+    background-color: rgb(222, 231, 231);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 10px #61dbfb;
+}
+.mb-4{
+    background-color:#61dbfb;
+    opacity: 0.9;
+    border-radius: 10px;
+    box-shadow: 1px 5px 15px 10px#61dbfb;
+}
